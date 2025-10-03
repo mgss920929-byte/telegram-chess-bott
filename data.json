@@ -1,0 +1,2484 @@
+{
+  "puzzles": {
+    "c1945fbb-4f77-4378-b546-711d7ea8bb5d": {
+      "id": "c1945fbb-4f77-4378-b546-711d7ea8bb5d",
+      "title": "find best move",
+      "puzzleNumber": 1,
+      "photoFileId": "AgACAgQAAxkBAAIBDGjY21a2zkaEqvh729i2d396Jgy2AAJjyTEb2tnJUjSzL0hWguisAQADAgADeAADNgQ",
+      "options": [
+        {
+          "text": "Rxf6",
+          "isAnswer": true
+        },
+        {
+          "text": "Rxe3",
+          "isAnswer": false
+        },
+        {
+          "text": "Bxf6",
+          "isAnswer": false
+        },
+        {
+          "text": "Qf1",
+          "isAnswer": false
+        }
+      ],
+      "hint": null,
+      "createdBy": 6312328668,
+      "createdByUserName": "@Systamaticc",
+      "createdAt": 1759342707182,
+      "postedIn": [
+        {
+          "chatId": "-1002150550707",
+          "msgId": 426848,
+          "postedAt": 1759342733273,
+          "postedOptionsMap": {
+            "A": "Bxf6",
+            "B": "Rxf6",
+            "C": "Qf1",
+            "D": "Rxe3"
+          }
+        },
+        {
+          "chatId": "-1001603984688",
+          "msgId": 1011210,
+          "postedAt": 1759342873683,
+          "postedOptionsMap": {
+            "A": "Qf1",
+            "B": "Rxe3",
+            "C": "Rxf6",
+            "D": "Bxf6"
+          }
+        },
+        {
+          "chatId": "8374607587",
+          "msgId": 1800,
+          "postedAt": 1759384699298,
+          "postedOptionsMap": {
+            "A": "Bxf6",
+            "B": "Qf1",
+            "C": "Rxf6",
+            "D": "Rxe3"
+          }
+        },
+        {
+          "chatId": "-1002769034318",
+          "msgId": 1091382,
+          "postedAt": 1759384783129,
+          "postedOptionsMap": {
+            "A": "Rxe3",
+            "B": "Bxf6",
+            "C": "Qf1",
+            "D": "Rxf6"
+          }
+        },
+        {
+          "chatId": "8374607587",
+          "msgId": 1855,
+          "postedAt": 1759477299442,
+          "postedOptionsMap": {
+            "A": "Rxe3",
+            "B": "Qf1",
+            "C": "Bxf6",
+            "D": "Rxf6"
+          }
+        },
+        {
+          "chatId": "-1002150550707",
+          "msgId": 429032,
+          "postedAt": 1759483468473,
+          "postedOptionsMap": {
+            "A": "Rxf6",
+            "B": "Bxf6",
+            "C": "Qf1",
+            "D": "Rxe3"
+          }
+        },
+        {
+          "chatId": "-1002150550707",
+          "msgId": 429138,
+          "postedAt": 1759484442239,
+          "postedOptionsMap": {
+            "A": "Qf1",
+            "B": "Rxe3",
+            "C": "Bxf6",
+            "D": "Rxf6"
+          }
+        },
+        {
+          "chatId": "-1001981339836",
+          "msgId": 349435,
+          "postedAt": 1759485085712,
+          "postedOptionsMap": {
+            "A": "Rxf6",
+            "B": "Rxe3",
+            "C": "Bxf6",
+            "D": "Qf1"
+          }
+        }
+      ]
+    },
+    "ae2948ed-2155-4036-a012-f99aa7743507": {
+      "id": "ae2948ed-2155-4036-a012-f99aa7743507",
+      "title": "White to Play: Find the best tactical move",
+      "puzzleNumber": 2,
+      "photoFileId": "AgACAgQAAxkBAAIBFmjY3WJyu8ervHi-AcCFGv5uU5j1AAJkyTEb2tnJUpCKmqvSIRY4AQADAgADeAADNgQ",
+      "options": [
+        {
+          "text": "Qd3",
+          "isAnswer": false
+        },
+        {
+          "text": "g3",
+          "isAnswer": false
+        },
+        {
+          "text": "Rxf6",
+          "isAnswer": false
+        },
+        {
+          "text": "Bxe5",
+          "isAnswer": true
+        }
+      ],
+      "hint": null,
+      "createdBy": 6312328668,
+      "createdByUserName": "@Systamaticc",
+      "createdAt": 1759342707184,
+      "postedIn": [
+        {
+          "chatId": "-1001603984688",
+          "msgId": 1011217,
+          "postedAt": 1759343074439,
+          "postedOptionsMap": {
+            "A": "g3",
+            "B": "Qd3",
+            "C": "Rxf6",
+            "D": "Bxe5"
+          }
+        },
+        {
+          "chatId": "8374607587",
+          "msgId": 1804,
+          "postedAt": 1759386098812,
+          "postedOptionsMap": {
+            "A": "g3",
+            "B": "Qd3",
+            "C": "Rxf6",
+            "D": "Bxe5"
+          }
+        },
+        {
+          "chatId": "-1002150550707",
+          "msgId": 428680,
+          "postedAt": 1759468465325,
+          "postedOptionsMap": {
+            "A": "g3",
+            "B": "Qd3",
+            "C": "Rxf6",
+            "D": "Bxe5"
+          }
+        },
+        {
+          "chatId": "8374607587",
+          "msgId": 1858,
+          "postedAt": 1759477323476,
+          "postedOptionsMap": {
+            "A": "Rxf6",
+            "B": "g3",
+            "C": "Bxe5",
+            "D": "Qd3"
+          }
+        },
+        {
+          "chatId": "-1002150550707",
+          "msgId": 429046,
+          "postedAt": 1759483662481,
+          "postedOptionsMap": {
+            "A": "Qd3",
+            "B": "g3",
+            "C": "Rxf6",
+            "D": "Bxe5"
+          }
+        }
+      ]
+    },
+    "06171c19-7ba3-471f-b5b6-c92d8e25b0a9": {
+      "id": "06171c19-7ba3-471f-b5b6-c92d8e25b0a9",
+      "title": "White to Play: Mate in 3",
+      "puzzleNumber": 3,
+      "photoFileId": "AgACAgQAAxkBAAIBImjY3xUUnw9EF5Upghmw2CLiM8PtAAJnyTEb2tnJUp1lYflaPV25AQADAgADeAADNgQ",
+      "options": [
+        {
+          "text": "Re7+",
+          "isAnswer": false
+        },
+        {
+          "text": "Rb7+",
+          "isAnswer": false
+        },
+        {
+          "text": "g4",
+          "isAnswer": false
+        },
+        {
+          "text": "g7+",
+          "isAnswer": true
+        }
+      ],
+      "hint": null,
+      "createdBy": 6312328668,
+      "createdByUserName": "@Systamaticc",
+      "createdAt": 1759342707185,
+      "postedIn": [
+        {
+          "chatId": "-1001603984688",
+          "msgId": 1011221,
+          "postedAt": 1759343847519,
+          "postedOptionsMap": {
+            "A": "g4",
+            "B": "g7+",
+            "C": "Re7+",
+            "D": "Rb7+"
+          }
+        },
+        {
+          "chatId": "8374607587",
+          "msgId": 1807,
+          "postedAt": 1759386286010,
+          "postedOptionsMap": {
+            "A": "g7+",
+            "B": "Rb7+",
+            "C": "Re7+",
+            "D": "g4"
+          }
+        },
+        {
+          "chatId": "-1002150550707",
+          "msgId": 428810,
+          "postedAt": 1759474124368,
+          "postedOptionsMap": {
+            "A": "Re7+",
+            "B": "Rb7+",
+            "C": "g4",
+            "D": "g7+"
+          }
+        },
+        {
+          "chatId": "8374607587",
+          "msgId": 1861,
+          "postedAt": 1759477345349,
+          "postedOptionsMap": {
+            "A": "Rb7+",
+            "B": "g4",
+            "C": "g7+",
+            "D": "Re7+"
+          }
+        },
+        {
+          "chatId": "-1002150550707",
+          "msgId": 429049,
+          "postedAt": 1759483675505,
+          "postedOptionsMap": {
+            "A": "Re7+",
+            "B": "Rb7+",
+            "C": "g4",
+            "D": "g7+"
+          }
+        }
+      ]
+    },
+    "784c85b8-6588-4948-9cde-4604de53b0c2": {
+      "id": "784c85b8-6588-4948-9cde-4604de53b0c2",
+      "title": "Black to Play: Win Material or Mate",
+      "puzzleNumber": 4,
+      "photoFileId": "AgACAgQAAxkBAAICJ2jZU6Um1IByzEXb4EhG-iLmDXbRAAIXyjEb2tnJUq1BwtEHJSE3AQADAgADeAADNgQ",
+      "options": [
+        {
+          "text": "♛e7",
+          "isAnswer": false
+        },
+        {
+          "text": "♛d3",
+          "isAnswer": true
+        },
+        {
+          "text": "♛xc3",
+          "isAnswer": false
+        },
+        {
+          "text": "♛c4+",
+          "isAnswer": false
+        }
+      ],
+      "hint": null,
+      "createdBy": 6312328668,
+      "createdByUserName": "@Systamaticc",
+      "createdAt": 1759342707186,
+      "postedIn": [
+        {
+          "chatId": "-1001603984688",
+          "msgId": 1011422,
+          "postedAt": 1759384700362,
+          "postedOptionsMap": {
+            "A": "♛c4+",
+            "B": "♛e7",
+            "C": "♛xc3",
+            "D": "♛d3"
+          }
+        },
+        {
+          "chatId": "8374607587",
+          "msgId": 1810,
+          "postedAt": 1759386782168,
+          "postedOptionsMap": {
+            "A": "♛c4+",
+            "B": "♛xc3",
+            "C": "♛d3",
+            "D": "♛e7"
+          }
+        },
+        {
+          "chatId": "-1002150550707",
+          "msgId": 428888,
+          "postedAt": 1759475191753,
+          "postedOptionsMap": {
+            "A": "♛e7",
+            "B": "♛d3",
+            "C": "♛xc3",
+            "D": "♛c4+"
+          }
+        },
+        {
+          "chatId": "8374607587",
+          "msgId": 1864,
+          "postedAt": 1759477525727,
+          "postedOptionsMap": {
+            "A": "♛e7",
+            "B": "♛d3",
+            "C": "♛xc3",
+            "D": "♛c4+"
+          }
+        },
+        {
+          "chatId": "-1002150550707",
+          "msgId": 429052,
+          "postedAt": 1759483689296,
+          "postedOptionsMap": {
+            "A": "♛e7",
+            "B": "♛d3",
+            "C": "♛xc3",
+            "D": "♛c4+"
+          }
+        }
+      ]
+    },
+    "0f1799b0-52fd-4284-b4a5-695bca97b01a": {
+      "id": "0f1799b0-52fd-4284-b4a5-695bca97b01a",
+      "title": "Black to Play: Win",
+      "puzzleNumber": 5,
+      "photoFileId": "AgACAgQAAxkBAAICKmjZVFOT1bRKOkFxlSVmKiv47nD-AAIYyjEb2tnJUpLP1Or2SJXkAQADAgADeAADNgQ",
+      "options": [
+        {
+          "text": "♕xe5",
+          "isAnswer": false
+        },
+        {
+          "text": "♖e7",
+          "isAnswer": false
+        },
+        {
+          "text": "♘f5",
+          "isAnswer": false
+        },
+        {
+          "text": "♖xe5",
+          "isAnswer": true
+        }
+      ],
+      "hint": null,
+      "createdBy": 6312328668,
+      "createdByUserName": "@Systamaticc",
+      "createdAt": 1759342707187,
+      "postedIn": [
+        {
+          "chatId": "-1001603984688",
+          "msgId": 1011423,
+          "postedAt": 1759384701591,
+          "postedOptionsMap": {
+            "A": "♘f5",
+            "B": "♕xe5",
+            "C": "♖e7",
+            "D": "♖xe5"
+          }
+        },
+        {
+          "chatId": "8374607587",
+          "msgId": 1812,
+          "postedAt": 1759386832306,
+          "postedOptionsMap": {
+            "A": "♖xe5",
+            "B": "♖e7",
+            "C": "♕xe5",
+            "D": "♘f5"
+          }
+        },
+        {
+          "chatId": "-1002150550707",
+          "msgId": 428897,
+          "postedAt": 1759475274736,
+          "postedOptionsMap": {
+            "A": "♘f5",
+            "B": "♖xe5",
+            "C": "♖e7",
+            "D": "♕xe5"
+          }
+        },
+        {
+          "chatId": "8374607587",
+          "msgId": 1866,
+          "postedAt": 1759478642588,
+          "postedOptionsMap": {
+            "A": "♘f5",
+            "B": "♕xe5",
+            "C": "♖xe5",
+            "D": "♖e7"
+          }
+        },
+        {
+          "chatId": "-1002150550707",
+          "msgId": 429055,
+          "postedAt": 1759483696851,
+          "postedOptionsMap": {
+            "A": "♕xe5",
+            "B": "♖e7",
+            "C": "♘f5",
+            "D": "♖xe5"
+          }
+        }
+      ]
+    },
+    "ad0c57ac-8171-4a20-a751-9cd62e340507": {
+      "id": "ad0c57ac-8171-4a20-a751-9cd62e340507",
+      "title": "Black to Play: Forced Win",
+      "puzzleNumber": 6,
+      "photoFileId": "AgACAgQAAxkBAAICLWjZVONUHeQ5Dk2ihJgbJEAxviGEAAIZyjEb2tnJUnG-lnYQcGy4AQADAgADeAADNgQ",
+      "options": [
+        {
+          "text": "♞d4+",
+          "isAnswer": false
+        },
+        {
+          "text": "♛d5+",
+          "isAnswer": false
+        },
+        {
+          "text": "♛c7",
+          "isAnswer": true
+        },
+        {
+          "text": "♛f6+",
+          "isAnswer": false
+        }
+      ],
+      "hint": null,
+      "createdBy": 6312328668,
+      "createdByUserName": "@Systamaticc",
+      "createdAt": 1759342707190,
+      "postedIn": [
+        {
+          "chatId": "-1001603984688",
+          "msgId": 1011427,
+          "postedAt": 1759384725352,
+          "postedOptionsMap": {
+            "A": "♛f6+",
+            "B": "♞d4+",
+            "C": "♛c7",
+            "D": "♛d5+"
+          }
+        },
+        {
+          "chatId": "8374607587",
+          "msgId": 1815,
+          "postedAt": 1759386937304,
+          "postedOptionsMap": {
+            "A": "♛f6+",
+            "B": "♛d5+",
+            "C": "♛c7",
+            "D": "♞d4+"
+          }
+        },
+        {
+          "chatId": "-1002150550707",
+          "msgId": 428902,
+          "postedAt": 1759475291777,
+          "postedOptionsMap": {
+            "A": "♛f6+",
+            "B": "♛d5+",
+            "C": "♛c7",
+            "D": "♞d4+"
+          }
+        },
+        {
+          "chatId": "8374607587",
+          "msgId": 1869,
+          "postedAt": 1759478696781,
+          "postedOptionsMap": {
+            "A": "♞d4+",
+            "B": "♛d5+",
+            "C": "♛c7",
+            "D": "♛f6+"
+          }
+        },
+        {
+          "chatId": "-1002150550707",
+          "msgId": 429058,
+          "postedAt": 1759483710578,
+          "postedOptionsMap": {
+            "A": "♞d4+",
+            "B": "♛d5+",
+            "C": "♛c7",
+            "D": "♛f6+"
+          }
+        }
+      ]
+    },
+    "d478340d-c1bc-4e36-881a-ea80eb74ab14": {
+      "id": "d478340d-c1bc-4e36-881a-ea80eb74ab14",
+      "title": "White to Play: Find Best Move",
+      "puzzleNumber": 7,
+      "photoFileId": "AgACAgQAAxkBAAICMGjZYDRZzwpiWNRjjvZW3iPSDzcdAAIhyjEb2tnJUgzsTXhKbnS4AQADAgADeAADNgQ",
+      "options": [
+        {
+          "text": "♖e8+",
+          "isAnswer": false
+        },
+        {
+          "text": "♕g4",
+          "isAnswer": false
+        },
+        {
+          "text": "♖e5",
+          "isAnswer": false
+        },
+        {
+          "text": "♕e1",
+          "isAnswer": true
+        }
+      ],
+      "hint": null,
+      "createdBy": 6312328668,
+      "createdByUserName": "@Systamaticc",
+      "createdAt": 1759342707192,
+      "postedIn": [
+        {
+          "chatId": "-1001603984688",
+          "msgId": 1012751,
+          "postedAt": 1759466987936,
+          "postedOptionsMap": {
+            "A": "♕e1",
+            "B": "♖e8+",
+            "C": "♕g4",
+            "D": "♖e5"
+          }
+        },
+        {
+          "chatId": "8374607587",
+          "msgId": 1820,
+          "postedAt": 1759466988208,
+          "postedOptionsMap": {
+            "A": "♖e8+",
+            "B": "♕g4",
+            "C": "♕e1",
+            "D": "♖e5"
+          }
+        },
+        {
+          "chatId": "-1002150550707",
+          "msgId": 428907,
+          "postedAt": 1759475308621,
+          "postedOptionsMap": {
+            "A": "♕e1",
+            "B": "♖e5",
+            "C": "♕g4",
+            "D": "♖e8+"
+          }
+        },
+        {
+          "chatId": "8374607587",
+          "msgId": 1874,
+          "postedAt": 1759478715919,
+          "postedOptionsMap": {
+            "A": "♖e8+",
+            "B": "♖e5",
+            "C": "♕e1",
+            "D": "♕g4"
+          }
+        },
+        {
+          "chatId": "-1002150550707",
+          "msgId": 429061,
+          "postedAt": 1759483724334,
+          "postedOptionsMap": {
+            "A": "♖e8+",
+            "B": "♕g4",
+            "C": "♖e5",
+            "D": "♕e1"
+          }
+        }
+      ]
+    },
+    "a54c0080-867f-46b0-a70c-64f6ac66b853": {
+      "id": "a54c0080-867f-46b0-a70c-64f6ac66b853",
+      "title": "Find the Best Move",
+      "puzzleNumber": 8,
+      "photoFileId": "AgACAgQAAxkBAAICM2jZYWQphcJ4ihtHMA1jdRXuGX2wAAIoyjEb2tnJUhGkf8Bpz_VHAQADAgADeAADNgQ",
+      "options": [
+        {
+          "text": "g5",
+          "isAnswer": false
+        },
+        {
+          "text": "♖f7+",
+          "isAnswer": false
+        },
+        {
+          "text": "♕h5+",
+          "isAnswer": true
+        },
+        {
+          "text": "♕f6+",
+          "isAnswer": false
+        }
+      ],
+      "hint": null,
+      "createdBy": 6312328668,
+      "createdByUserName": "@Systamaticc",
+      "createdAt": 1759342707195,
+      "postedIn": [
+        {
+          "chatId": "-1001603984688",
+          "msgId": 1012752,
+          "postedAt": 1759466988593,
+          "postedOptionsMap": {
+            "A": "♕f6+",
+            "B": "♕h5+",
+            "C": "♖f7+",
+            "D": "g5"
+          }
+        },
+        {
+          "chatId": "8374607587",
+          "msgId": 1821,
+          "postedAt": 1759466995953,
+          "postedOptionsMap": {
+            "A": "g5",
+            "B": "♖f7+",
+            "C": "♕h5+",
+            "D": "♕f6+"
+          }
+        },
+        {
+          "chatId": "8374607587",
+          "msgId": 1877,
+          "postedAt": 1759478732973,
+          "postedOptionsMap": {
+            "A": "g5",
+            "B": "♖f7+",
+            "C": "♕f6+",
+            "D": "♕h5+"
+          }
+        },
+        {
+          "chatId": "-1002150550707",
+          "msgId": 429064,
+          "postedAt": 1759483746964,
+          "postedOptionsMap": {
+            "A": "g5",
+            "B": "♖f7+",
+            "C": "♕h5+",
+            "D": "♕f6+"
+          }
+        }
+      ]
+    },
+    "d44c7875-e14d-4693-9444-c16676cfb953": {
+      "id": "d44c7875-e14d-4693-9444-c16676cfb953",
+      "title": "Find the Best Move",
+      "puzzleNumber": 9,
+      "photoFileId": "AgACAgQAAxkBAAICNmjZYceQrI3aPrNQHhvYwbrasrj3AAIpyjEb2tnJUvVrePozXcwoAQADAgADeAADNgQ",
+      "options": [
+        {
+          "text": "♖h5",
+          "isAnswer": true
+        },
+        {
+          "text": "♖f6",
+          "isAnswer": false
+        },
+        {
+          "text": "♔g4",
+          "isAnswer": false
+        },
+        {
+          "text": "♔f4",
+          "isAnswer": false
+        }
+      ],
+      "hint": null,
+      "createdBy": 6312328668,
+      "createdByUserName": "@Systamaticc",
+      "createdAt": 1759342707197,
+      "postedIn": [
+        {
+          "chatId": "-1001603984688",
+          "msgId": 1012753,
+          "postedAt": 1759466996226,
+          "postedOptionsMap": {
+            "A": "♖f6",
+            "B": "♔g4",
+            "C": "♖h5",
+            "D": "♔f4"
+          }
+        },
+        {
+          "chatId": "8374607587",
+          "msgId": 1824,
+          "postedAt": 1759475365839,
+          "postedOptionsMap": {
+            "A": "♖f6",
+            "B": "♔g4",
+            "C": "♔f4",
+            "D": "♖h5"
+          }
+        },
+        {
+          "chatId": "8374607587",
+          "msgId": 1880,
+          "postedAt": 1759478750720,
+          "postedOptionsMap": {
+            "A": "♔f4",
+            "B": "♖h5",
+            "C": "♖f6",
+            "D": "♔g4"
+          }
+        },
+        {
+          "chatId": "-1002150550707",
+          "msgId": 429067,
+          "postedAt": 1759483758644,
+          "postedOptionsMap": {
+            "A": "♖h5",
+            "B": "♖f6",
+            "C": "♔g4",
+            "D": "♔f4"
+          }
+        }
+      ]
+    },
+    "601ffc46-cde3-4fd3-b915-23cce6d00cbb": {
+      "id": "601ffc46-cde3-4fd3-b915-23cce6d00cbb",
+      "title": "Find the Best Move",
+      "puzzleNumber": 10,
+      "photoFileId": "AgACAgQAAxkBAAICOWjZYooAAQmRayW0E_EYjoxgIbStKAACKsoxG9rZyVKQGj85YY0suQEAAwIAA3gAAzYE",
+      "options": [
+        {
+          "text": "♖c8+",
+          "isAnswer": false
+        },
+        {
+          "text": "♕h1",
+          "isAnswer": true
+        },
+        {
+          "text": "♘e3+",
+          "isAnswer": false
+        },
+        {
+          "text": "♕e7+",
+          "isAnswer": false
+        }
+      ],
+      "hint": null,
+      "createdBy": 6312328668,
+      "createdByUserName": "@Systamaticc",
+      "createdAt": 1759342707199,
+      "postedIn": [
+        {
+          "chatId": "-1001603984688",
+          "msgId": 1012754,
+          "postedAt": 1759466996676,
+          "postedOptionsMap": {
+            "A": "♖c8+",
+            "B": "♕e7+",
+            "C": "♘e3+",
+            "D": "♕h1"
+          }
+        },
+        {
+          "chatId": "8374607587",
+          "msgId": 1827,
+          "postedAt": 1759475412023,
+          "postedOptionsMap": {
+            "A": "♕h1",
+            "B": "♕e7+",
+            "C": "♖c8+",
+            "D": "♘e3+"
+          }
+        },
+        {
+          "chatId": "8374607587",
+          "msgId": 1883,
+          "postedAt": 1759478766896,
+          "postedOptionsMap": {
+            "A": "♕h1",
+            "B": "♘e3+",
+            "C": "♕e7+",
+            "D": "♖c8+"
+          }
+        },
+        {
+          "chatId": "-1002150550707",
+          "msgId": 429070,
+          "postedAt": 1759483771054,
+          "postedOptionsMap": {
+            "A": "♖c8+",
+            "B": "♕h1",
+            "C": "♘e3+",
+            "D": "♕e7+"
+          }
+        }
+      ]
+    },
+    "3fbd6533-6ccf-4587-8ce3-604b43cb42c0": {
+      "id": "3fbd6533-6ccf-4587-8ce3-604b43cb42c0",
+      "title": "Find the Best Move",
+      "puzzleNumber": 11,
+      "photoFileId": "AgACAgQAAxkBAAICPGjZY4RYQ2Bk0YA-AXG1mpOzanpOAAIryjEb2tnJUkGbSImZvc0NAQADAgADeAADNgQ",
+      "options": [
+        {
+          "text": "♗g5",
+          "isAnswer": false
+        },
+        {
+          "text": "♗xh7+",
+          "isAnswer": false
+        },
+        {
+          "text": "♖xg7",
+          "isAnswer": true
+        },
+        {
+          "text": "♕b6+",
+          "isAnswer": false
+        }
+      ],
+      "hint": null,
+      "createdBy": 6312328668,
+      "createdByUserName": "@Systamaticc",
+      "createdAt": 1759342707200,
+      "postedIn": [
+        {
+          "chatId": "-1001603984688",
+          "msgId": 1012773,
+          "postedAt": 1759467809612,
+          "postedOptionsMap": {
+            "A": "♗g5",
+            "B": "♕b6+",
+            "C": "♖xg7",
+            "D": "♗xh7+"
+          }
+        },
+        {
+          "chatId": "-1002150550707",
+          "msgId": 428936,
+          "postedAt": 1759475420871,
+          "postedOptionsMap": {
+            "A": "♕b6+",
+            "B": "♖xg7",
+            "C": "♗xh7+",
+            "D": "♗g5"
+          }
+        },
+        {
+          "chatId": "8374607587",
+          "msgId": 1830,
+          "postedAt": 1759475421925,
+          "postedOptionsMap": {
+            "A": "♗g5",
+            "B": "♗xh7+",
+            "C": "♖xg7",
+            "D": "♕b6+"
+          }
+        },
+        {
+          "chatId": "-1002150550707",
+          "msgId": 429073,
+          "postedAt": 1759483786087,
+          "postedOptionsMap": {
+            "A": "♗g5",
+            "B": "♗xh7+",
+            "C": "♖xg7",
+            "D": "♕b6+"
+          }
+        }
+      ]
+    },
+    "76561168-62a2-43c3-91d8-10edfc78bfcd": {
+      "id": "76561168-62a2-43c3-91d8-10edfc78bfcd",
+      "title": "Find the Best Move",
+      "puzzleNumber": 12,
+      "photoFileId": "AgACAgQAAxkBAAICP2jZZDXt2o3GrFhxnApAMH0wIzAlAAIsyjEb2tnJUuMTvUFhie8wAQADAgADeAADNgQ",
+      "options": [
+        {
+          "text": "♗g4",
+          "isAnswer": false
+        },
+        {
+          "text": "dxe4",
+          "isAnswer": true
+        },
+        {
+          "text": "♕e7",
+          "isAnswer": false
+        },
+        {
+          "text": "♞xe4",
+          "isAnswer": false
+        }
+      ],
+      "hint": null,
+      "createdBy": 6312328668,
+      "createdByUserName": "@Systamaticc",
+      "createdAt": 1759342707202,
+      "postedIn": [
+        {
+          "chatId": "-1001603984688",
+          "msgId": 1012772,
+          "postedAt": 1759467809593,
+          "postedOptionsMap": {
+            "A": "♞xe4",
+            "B": "♗g4",
+            "C": "♕e7",
+            "D": "dxe4"
+          }
+        },
+        {
+          "chatId": "-1002150550707",
+          "msgId": 428940,
+          "postedAt": 1759475425600,
+          "postedOptionsMap": {
+            "A": "dxe4",
+            "B": "♕e7",
+            "C": "♗g4",
+            "D": "♞xe4"
+          }
+        },
+        {
+          "chatId": "8374607587",
+          "msgId": 1834,
+          "postedAt": 1759475492880,
+          "postedOptionsMap": {
+            "A": "♕e7",
+            "B": "♞xe4",
+            "C": "♗g4",
+            "D": "dxe4"
+          }
+        },
+        {
+          "chatId": "-1002150550707",
+          "msgId": 429076,
+          "postedAt": 1759483797337,
+          "postedOptionsMap": {
+            "A": "♗g4",
+            "B": "dxe4",
+            "C": "♕e7",
+            "D": "♞xe4"
+          }
+        }
+      ]
+    },
+    "4e7c01f3-88ee-45f2-b804-a5fbe98564f7": {
+      "id": "4e7c01f3-88ee-45f2-b804-a5fbe98564f7",
+      "title": "Find the Best Move",
+      "puzzleNumber": 13,
+      "photoFileId": "AgACAgQAAxkBAAICpmjZcxspzMKKwOoo-DkI1G6nJGycAAJGyjEb2tnJUsS8jSdrUfgdAQADAgADeAADNgQ",
+      "options": [
+        {
+          "text": "e2",
+          "isAnswer": true
+        },
+        {
+          "text": "♜c1+",
+          "isAnswer": false
+        },
+        {
+          "text": "♛g2+",
+          "isAnswer": false
+        },
+        {
+          "text": "♛f2+",
+          "isAnswer": false
+        }
+      ],
+      "hint": null,
+      "createdBy": 6312328668,
+      "createdByUserName": "@Systamaticc",
+      "createdAt": 1759342707205,
+      "postedIn": [
+        {
+          "chatId": "-1001603984688",
+          "msgId": 1012779,
+          "postedAt": 1759467899529,
+          "postedOptionsMap": {
+            "A": "♛g2+",
+            "B": "♜c1+",
+            "C": "e2",
+            "D": "♛f2+"
+          }
+        },
+        {
+          "chatId": "-1002150550707",
+          "msgId": 428942,
+          "postedAt": 1759475445534,
+          "postedOptionsMap": {
+            "A": "♛g2+",
+            "B": "♛f2+",
+            "C": "♜c1+",
+            "D": "e2"
+          }
+        },
+        {
+          "chatId": "-1002150550707",
+          "msgId": 429079,
+          "postedAt": 1759483820151,
+          "postedOptionsMap": {
+            "A": "e2",
+            "B": "♜c1+",
+            "C": "♛g2+",
+            "D": "♛f2+"
+          }
+        }
+      ]
+    },
+    "ef733547-d943-4a1e-b209-6e2b22265134": {
+      "id": "ef733547-d943-4a1e-b209-6e2b22265134",
+      "title": "Find the Best Move",
+      "puzzleNumber": 14,
+      "photoFileId": "AgACAgQAAxkBAAICqWjZc4crT6UcyOJ-egl1CMnryzXGAAJHyjEb2tnJUrgJjphVGCSHAQADAgADeAADNgQ",
+      "options": [
+        {
+          "text": "♛xc2+",
+          "isAnswer": false
+        },
+        {
+          "text": "♞g4",
+          "isAnswer": true
+        },
+        {
+          "text": "♞f6",
+          "isAnswer": false
+        },
+        {
+          "text": "♛xe4",
+          "isAnswer": false
+        }
+      ],
+      "hint": null,
+      "createdBy": 6312328668,
+      "createdByUserName": "@Systamaticc",
+      "createdAt": 1759342707209,
+      "postedIn": [
+        {
+          "chatId": "-1001603984688",
+          "msgId": 1012788,
+          "postedAt": 1759468038092,
+          "postedOptionsMap": {
+            "A": "♞g4",
+            "B": "♛xc2+",
+            "C": "♞f6",
+            "D": "♛xe4"
+          }
+        },
+        {
+          "chatId": "-1002150550707",
+          "msgId": 429082,
+          "postedAt": 1759483834568,
+          "postedOptionsMap": {
+            "A": "♛xc2+",
+            "B": "♞g4",
+            "C": "♞f6",
+            "D": "♛xe4"
+          }
+        }
+      ]
+    },
+    "26c3cbff-a8d9-4353-9659-dece929a119d": {
+      "id": "26c3cbff-a8d9-4353-9659-dece929a119d",
+      "title": "Find the Best Move",
+      "puzzleNumber": 15,
+      "photoFileId": "AgACAgQAAxkBAAICrGjZc9aHTjX8eUF0osyjibaae78YAAJIyjEb2tnJUjjMIuTCc6MXAQADAgADeAADNgQ",
+      "options": [
+        {
+          "text": "♕xa8",
+          "isAnswer": true
+        },
+        {
+          "text": "♘f6+",
+          "isAnswer": false
+        },
+        {
+          "text": "♗xe6",
+          "isAnswer": false
+        },
+        {
+          "text": "♕g1",
+          "isAnswer": false
+        }
+      ],
+      "hint": null,
+      "createdBy": 6312328668,
+      "createdByUserName": "@Systamaticc",
+      "createdAt": 1759342707211,
+      "postedIn": [
+        {
+          "chatId": "-1001603984688",
+          "msgId": 1012851,
+          "postedAt": 1759473526644,
+          "postedOptionsMap": {
+            "A": "♗xe6",
+            "B": "♘f6+",
+            "C": "♕xa8",
+            "D": "♕g1"
+          }
+        },
+        {
+          "chatId": "-1002150550707",
+          "msgId": 429085,
+          "postedAt": 1759483856466,
+          "postedOptionsMap": {
+            "A": "♕xa8",
+            "B": "♘f6+",
+            "C": "♗xe6",
+            "D": "♕g1"
+          }
+        }
+      ]
+    },
+    "53a5ff9a-d48a-499f-92b6-5d32fb8ec7bd": {
+      "id": "53a5ff9a-d48a-499f-92b6-5d32fb8ec7bd",
+      "title": "Find the Best Move",
+      "puzzleNumber": 16,
+      "photoFileId": "AgACAgQAAxkBAAICr2jZdPNkMfFYsF6Sk-a08XdmTLrLAAJJyjEb2tnJUk5AFMLtYtIYAQADAgADeAADNgQ",
+      "options": [
+        {
+          "text": "♕e1",
+          "isAnswer": false
+        },
+        {
+          "text": "♖d7",
+          "isAnswer": false
+        },
+        {
+          "text": "♖xf7",
+          "isAnswer": true
+        },
+        {
+          "text": "Nxg6",
+          "isAnswer": false
+        }
+      ],
+      "hint": null,
+      "createdBy": 6312328668,
+      "createdByUserName": "@Systamaticc",
+      "createdAt": 1759342707212,
+      "postedIn": [
+        {
+          "chatId": "-1001603984688",
+          "msgId": 1012861,
+          "postedAt": 1759473719446,
+          "postedOptionsMap": {
+            "A": "Nxg6",
+            "B": "♖xf7",
+            "C": "♕e1",
+            "D": "♖d7"
+          }
+        },
+        {
+          "chatId": "-1002150550707",
+          "msgId": 429088,
+          "postedAt": 1759483874210,
+          "postedOptionsMap": {
+            "A": "♕e1",
+            "B": "♖d7",
+            "C": "♖xf7",
+            "D": "Nxg6"
+          }
+        }
+      ]
+    },
+    "0567f437-e113-4a0a-a90d-39328435282e": {
+      "id": "0567f437-e113-4a0a-a90d-39328435282e",
+      "title": "Find the Best Move",
+      "puzzleNumber": 17,
+      "photoFileId": "AgACAgQAAxkBAAICsmjZdo4SXHxNMTGfDoCG5RCpSd5EAAJLyjEb2tnJUm0ow5X31x42AQADAgADeAADNgQ",
+      "options": [
+        {
+          "text": "♜c3+",
+          "isAnswer": false
+        },
+        {
+          "text": "♜f2+",
+          "isAnswer": false
+        },
+        {
+          "text": "g5",
+          "isAnswer": false
+        },
+        {
+          "text": "♜h3",
+          "isAnswer": true
+        }
+      ],
+      "hint": null,
+      "createdBy": 6312328668,
+      "createdByUserName": "@Systamaticc",
+      "createdAt": 1759342707213,
+      "postedIn": [
+        {
+          "chatId": "-1002150550707",
+          "msgId": 429091,
+          "postedAt": 1759483881287,
+          "postedOptionsMap": {
+            "A": "♜c3+",
+            "B": "♜f2+",
+            "C": "g5",
+            "D": "♜h3"
+          }
+        }
+      ]
+    },
+    "30cb490d-6428-4dd2-b490-f9710495d5b7": {
+      "id": "30cb490d-6428-4dd2-b490-f9710495d5b7",
+      "title": "Find the Best Move",
+      "puzzleNumber": 18,
+      "photoFileId": "AgACAgQAAxkBAAICtWjZduLtvOrtnEvaZ_VM_NJvtXHNAAJMyjEb2tnJUim9Qw7iqQZ6AQADAgADeAADNgQ",
+      "options": [
+        {
+          "text": "♗c4",
+          "isAnswer": false
+        },
+        {
+          "text": "♗f4",
+          "isAnswer": false
+        },
+        {
+          "text": "♖xc7",
+          "isAnswer": false
+        },
+        {
+          "text": "g5+",
+          "isAnswer": true
+        }
+      ],
+      "hint": null,
+      "createdBy": 6312328668,
+      "createdByUserName": "@Systamaticc",
+      "createdAt": 1759342707214,
+      "postedIn": [
+        {
+          "chatId": "-1002150550707",
+          "msgId": 429094,
+          "postedAt": 1759483894434,
+          "postedOptionsMap": {
+            "A": "♗c4",
+            "B": "♗f4",
+            "C": "♖xc7",
+            "D": "g5+"
+          }
+        }
+      ]
+    },
+    "4a5c89d9-69ee-465d-af47-36f7a9c7f6ec": {
+      "id": "4a5c89d9-69ee-465d-af47-36f7a9c7f6ec",
+      "title": "Find the Best Move",
+      "puzzleNumber": 19,
+      "photoFileId": "AgACAgQAAxkBAAICuGjZdy1r-Dmdc-RmYuVoiiKfZjKjAAJQyjEb2tnJUiaKa6JmsmlBAQADAgADeAADNgQ",
+      "options": [
+        {
+          "text": "♛f5",
+          "isAnswer": false
+        },
+        {
+          "text": "♛e7",
+          "isAnswer": true
+        },
+        {
+          "text": "♜de8",
+          "isAnswer": false
+        },
+        {
+          "text": "♜d4",
+          "isAnswer": false
+        }
+      ],
+      "hint": null,
+      "createdBy": 6312328668,
+      "createdByUserName": "@Systamaticc",
+      "createdAt": 1759342707216,
+      "postedIn": [
+        {
+          "chatId": "-1002150550707",
+          "msgId": 429097,
+          "postedAt": 1759483907795,
+          "postedOptionsMap": {
+            "A": "♛f5",
+            "B": "♛e7",
+            "C": "♜de8",
+            "D": "♜d4"
+          }
+        }
+      ]
+    },
+    "7b6ce662-8fb6-4acf-a14c-5665a3f09bb4": {
+      "id": "7b6ce662-8fb6-4acf-a14c-5665a3f09bb4",
+      "title": "Find the Best Move",
+      "puzzleNumber": 20,
+      "photoFileId": "AgACAgQAAxkBAAICu2jZd8vkV6nk5bCnkqXZLNgqUxubAAJSyjEb2tnJUkGufsVIP8VgAQADAgADeAADNgQ",
+      "options": [
+        {
+          "text": "♖e8+",
+          "isAnswer": false
+        },
+        {
+          "text": "♔g7",
+          "isAnswer": false
+        },
+        {
+          "text": "♗f7",
+          "isAnswer": true
+        },
+        {
+          "text": "h7",
+          "isAnswer": false
+        }
+      ],
+      "hint": null,
+      "createdBy": 6312328668,
+      "createdByUserName": "@Systamaticc",
+      "createdAt": 1759342707218,
+      "postedIn": [
+        {
+          "chatId": "-1002150550707",
+          "msgId": 429100,
+          "postedAt": 1759483934123,
+          "postedOptionsMap": {
+            "A": "♖e8+",
+            "B": "♔g7",
+            "C": "♗f7",
+            "D": "h7"
+          }
+        }
+      ]
+    },
+    "5e5c14c2-5e4f-41f4-8a0b-5e86714998fb": {
+      "id": "5e5c14c2-5e4f-41f4-8a0b-5e86714998fb",
+      "title": "Find the Best Move",
+      "puzzleNumber": 21,
+      "photoFileId": "AgACAgQAAxkBAAIEnmjbWzCTwx0_ov53ebH8KX1cPbZPAALsyjEbXUvYUrw4ifk-uXH3AQADAgADeAADNgQ",
+      "options": [
+        {
+          "text": "Ne6+",
+          "isAnswer": false
+        },
+        {
+          "text": "Nf7+",
+          "isAnswer": false
+        },
+        {
+          "text": "Rc5+",
+          "isAnswer": false
+        },
+        {
+          "text": "Rc4",
+          "isAnswer": true
+        }
+      ],
+      "hint": null,
+      "createdBy": 6312328668,
+      "createdByUserName": "@Systamaticc",
+      "createdAt": 1759342707221,
+      "postedIn": [
+        {
+          "chatId": "-1002150550707",
+          "msgId": 429103,
+          "postedAt": 1759483945385,
+          "postedOptionsMap": {
+            "A": "Ne6+",
+            "B": "Nf7+",
+            "C": "Rc5+",
+            "D": "Rc4"
+          }
+        }
+      ]
+    },
+    "cc419101-9553-431a-a52d-06c0c2189b8b": {
+      "id": "cc419101-9553-431a-a52d-06c0c2189b8b",
+      "title": "White to Play: Find the decisive move",
+      "puzzleNumber": 22,
+      "photoFileId": "AgACAgQAAxkBAAIEoWjbYwXNGGtHV3uGU5QlSCjGwt2pAALvyjEbXUvYUn3XvZx4TnlMAQADAgADeAADNgQ",
+      "options": [
+        {
+          "text": "♙gxh7",
+          "isAnswer": false
+        },
+        {
+          "text": "♕xa8",
+          "isAnswer": false
+        },
+        {
+          "text": "♕g4",
+          "isAnswer": false
+        },
+        {
+          "text": "♝c7",
+          "isAnswer": true
+        }
+      ],
+      "hint": null,
+      "createdBy": 6312328668,
+      "createdByUserName": "@Systamaticc",
+      "createdAt": 1759342707224,
+      "postedIn": [
+        {
+          "chatId": "-1002150550707",
+          "msgId": 429107,
+          "postedAt": 1759483961992,
+          "postedOptionsMap": {
+            "A": "♙gxh7",
+            "B": "♕xa8",
+            "C": "♕g4",
+            "D": "♝c7"
+          }
+        }
+      ]
+    },
+    "f466b723-605c-4d2d-a13b-9cad9deeafbe": {
+      "id": "f466b723-605c-4d2d-a13b-9cad9deeafbe",
+      "title": "White to Play: Find the decisive move",
+      "puzzleNumber": 23,
+      "photoFileId": "AgACAgQAAxkBAAIEsmjbayqD-Z_--LOLdJMzRxQNTeXHAAL2yjEbXUvYUnYb6EvR5dvaAQADAgADeAADNgQ",
+      "options": [
+        {
+          "text": "Kxh5",
+          "isAnswer": false
+        },
+        {
+          "text": "♝f8",
+          "isAnswer": false
+        },
+        {
+          "text": "♝f6",
+          "isAnswer": false
+        },
+        {
+          "text": "♝g5",
+          "isAnswer": true
+        }
+      ],
+      "hint": null,
+      "createdBy": 6312328668,
+      "createdByUserName": "@Systamaticc",
+      "createdAt": 1759342707228,
+      "postedIn": [
+        {
+          "chatId": "-1002150550707",
+          "msgId": 429110,
+          "postedAt": 1759483970865,
+          "postedOptionsMap": {
+            "A": "Kxh5",
+            "B": "♝f8",
+            "C": "♝f6",
+            "D": "♝g5"
+          }
+        }
+      ]
+    },
+    "5c839fc8-0500-464a-a97e-64364c57ac5e": {
+      "id": "5c839fc8-0500-464a-a97e-64364c57ac5e",
+      "title": "White to Play: Find the decisive move",
+      "puzzleNumber": 24,
+      "photoFileId": "AgACAgQAAxkBAAIEtWjbbZ2bzxf2umCEpUBmymrBpM6ZAAL3yjEbXUvYUgFGzx7MplwzAQADAgADeAADNgQ",
+      "options": [
+        {
+          "text": "♙g3",
+          "isAnswer": false
+        },
+        {
+          "text": "♙b4",
+          "isAnswer": false
+        },
+        {
+          "text": "♙f5",
+          "isAnswer": true
+        },
+        {
+          "text": "♙a5",
+          "isAnswer": false
+        }
+      ],
+      "hint": null,
+      "createdBy": 6312328668,
+      "createdByUserName": "@Systamaticc",
+      "createdAt": 1759342707232,
+      "postedIn": [
+        {
+          "chatId": "-1002150550707",
+          "msgId": 429113,
+          "postedAt": 1759483987406,
+          "postedOptionsMap": {
+            "A": "♙g3",
+            "B": "♙b4",
+            "C": "♙f5",
+            "D": "♙a5"
+          }
+        }
+      ]
+    },
+    "0173cb48-71f7-426e-9886-8b30882b9109": {
+      "id": "0173cb48-71f7-426e-9886-8b30882b9109",
+      "title": "Black to Play: Find the decisive capture",
+      "puzzleNumber": 25,
+      "photoFileId": "AgACAgQAAxkBAAIEuGjbb9cZaB-EKOrSPnXPbprg8dQoAAL4yjEbXUvYUrkm8tXvR78SAQADAgADeAADNgQ",
+      "options": [
+        {
+          "text": "♚e7",
+          "isAnswer": false
+        },
+        {
+          "text": "♝xe5",
+          "isAnswer": false
+        },
+        {
+          "text": "♕e6",
+          "isAnswer": false
+        },
+        {
+          "text": "♙dxc3",
+          "isAnswer": true
+        }
+      ],
+      "hint": null,
+      "createdBy": 6312328668,
+      "createdByUserName": "@Systamaticc",
+      "createdAt": 1759342707234,
+      "postedIn": [
+        {
+          "chatId": "-1002150550707",
+          "msgId": 429116,
+          "postedAt": 1759483998480,
+          "postedOptionsMap": {
+            "A": "♚e7",
+            "B": "♝xe5",
+            "C": "♕e6",
+            "D": "♙dxc3"
+          }
+        }
+      ]
+    },
+    "84f8becc-453d-4360-986c-9740416a03bc": {
+      "id": "84f8becc-453d-4360-986c-9740416a03bc",
+      "title": "White to Play: Find the decisive move",
+      "puzzleNumber": 26,
+      "photoFileId": "AgACAgQAAxkBAAIEu2jbcYPYq6HsH8cUmJeYh9g1PgAB6AAC-coxG11L2FIAAUk5a53Lgm0BAAMCAAN4AAM2BA",
+      "options": [
+        {
+          "text": "♜e5",
+          "isAnswer": true
+        },
+        {
+          "text": "♜b7",
+          "isAnswer": false
+        },
+        {
+          "text": "Kb8",
+          "isAnswer": false
+        },
+        {
+          "text": "♝c6",
+          "isAnswer": false
+        }
+      ],
+      "hint": null,
+      "createdBy": 6312328668,
+      "createdByUserName": "@Systamaticc",
+      "createdAt": 1759342707239,
+      "postedIn": [
+        {
+          "chatId": "-1002150550707",
+          "msgId": 429119,
+          "postedAt": 1759484013694,
+          "postedOptionsMap": {
+            "A": "♜e5",
+            "B": "♜b7",
+            "C": "Kb8",
+            "D": "♝c6"
+          }
+        }
+      ]
+    },
+    "cee6ddbb-b2bc-49c2-a360-56167203a20b": {
+      "id": "cee6ddbb-b2bc-49c2-a360-56167203a20b",
+      "title": "Chess Puzzle",
+      "puzzleNumber": 27,
+      "photoFileId": "AgACAgUAAxkBAAIE6Wjbljc4HVsNjStgHwIhI8oJIQ1SAAJqyDEbhUvYVgsZ8fsLDl-GAQADAgADeAADNgQ",
+      "options": [
+        {
+          "text": "f5",
+          "isAnswer": false
+        },
+        {
+          "text": "Rb1",
+          "isAnswer": true
+        },
+        {
+          "text": "Bd2)",
+          "isAnswer": false
+        },
+        {
+          "text": "Bf3",
+          "isAnswer": false
+        }
+      ],
+      "hint": null,
+      "createdBy": 6312328668,
+      "createdByUserName": "@Systamaticc",
+      "createdAt": 1759342707242,
+      "postedIn": [
+        {
+          "chatId": "-1002150550707",
+          "msgId": 429122,
+          "postedAt": 1759484026842,
+          "postedOptionsMap": {
+            "A": "f5",
+            "B": "Rb1",
+            "C": "Bd2)",
+            "D": "Bf3"
+          }
+        }
+      ]
+    },
+    "40e16514-63f0-4169-b452-5a6e3cf84928": {
+      "id": "40e16514-63f0-4169-b452-5a6e3cf84928",
+      "title": "Find the Best Move",
+      "puzzleNumber": 28,
+      "photoFileId": "AgACAgQAAxkBAAIGamjc8QqiIbKJI6u7bUFXZRKDGN9mAALfzDEbyrDpUhunc9T5W_wYAQADAgADeAADNgQ",
+      "options": [
+        {
+          "text": "g4",
+          "isAnswer": false
+        },
+        {
+          "text": "♔g4",
+          "isAnswer": false
+        },
+        {
+          "text": "♘xg5",
+          "isAnswer": true
+        },
+        {
+          "text": "♔e4",
+          "isAnswer": false
+        }
+      ],
+      "hint": "Look for a tactical move that simultaneously attacks the opposing king and a key defender.",
+      "createdBy": 6312328668,
+      "createdByUserName": "@Systamaticc",
+      "createdAt": 1759342707246,
+      "postedIn": [
+        {
+          "chatId": "-1002150550707",
+          "msgId": 429125,
+          "postedAt": 1759484038504,
+          "postedOptionsMap": {
+            "A": "g4",
+            "B": "♔g4",
+            "C": "♘xg5",
+            "D": "♔e4"
+          }
+        }
+      ]
+    },
+    "773de48b-c97e-494e-94d8-8c11293f1ea1": {
+      "id": "773de48b-c97e-494e-94d8-8c11293f1ea1",
+      "title": "Find the Best Move",
+      "puzzleNumber": 29,
+      "photoFileId": "AgACAgQAAxkBAAIGbWjc8krKNwYBCCztFPiTNxbRu7R2AALgzDEbyrDpUhT1pMwFa3CHAQADAgADeAADNgQ",
+      "options": [
+        {
+          "text": "♟b3",
+          "isAnswer": false
+        },
+        {
+          "text": "♘c5",
+          "isAnswer": false
+        },
+        {
+          "text": "♔c4",
+          "isAnswer": true
+        },
+        {
+          "text": "♔d3",
+          "isAnswer": false
+        }
+      ],
+      "hint": "Improve the  position to support promotion",
+      "createdBy": 6312328668,
+      "createdByUserName": "@Systamaticc",
+      "createdAt": 1759342707247,
+      "postedIn": [
+        {
+          "chatId": "-1002150550707",
+          "msgId": 429128,
+          "postedAt": 1759484069175,
+          "postedOptionsMap": {
+            "A": "♟b3",
+            "B": "♘c5",
+            "C": "♔c4",
+            "D": "♔d3"
+          }
+        }
+      ]
+    },
+    "2bd7a230-b3d7-4aea-a6cb-59fac0773619": {
+      "id": "2bd7a230-b3d7-4aea-a6cb-59fac0773619",
+      "title": "Find the Best Move",
+      "puzzleNumber": 30,
+      "photoFileId": "AgACAgQAAxkBAAIGc2jc9BSJocpjuZeSgDaO9Vbwbhe7AALkzDEbyrDpUrFX3MQ5trx_AQADAgADeAADNgQ",
+      "options": [
+        {
+          "text": "g3",
+          "isAnswer": false
+        },
+        {
+          "text": "♔e5",
+          "isAnswer": false
+        },
+        {
+          "text": "b6",
+          "isAnswer": false
+        },
+        {
+          "text": "♔d6",
+          "isAnswer": true
+        }
+      ],
+      "hint": "Immediately centralized to attack the Black Knight's position",
+      "createdBy": 6312328668,
+      "createdByUserName": "@Systamaticc",
+      "createdAt": 1759342707250,
+      "postedIn": [
+        {
+          "chatId": "-1002150550707",
+          "msgId": 429140,
+          "postedAt": 1759484465810,
+          "postedOptionsMap": {
+            "A": "g3",
+            "B": "♔e5",
+            "C": "b6",
+            "D": "♔d6"
+          }
+        }
+      ]
+    },
+    "58c80d69-b4eb-4017-a769-783b7b803e99": {
+      "id": "58c80d69-b4eb-4017-a769-783b7b803e99",
+      "title": "Find the Best Move",
+      "puzzleNumber": 31,
+      "photoFileId": "AgACAgQAAxkBAAIGdmjc9YfljlReTdjsNgyzPLmah1myAALnzDEbyrDpUllvbDF-czfwAQADAgADeAADNgQ",
+      "options": [
+        {
+          "text": "♔xe5",
+          "isAnswer": true
+        },
+        {
+          "text": "♘c2",
+          "isAnswer": false
+        },
+        {
+          "text": "♔c3",
+          "isAnswer": false
+        },
+        {
+          "text": "b4",
+          "isAnswer": false
+        }
+      ],
+      "hint": "Sacrifice is the path to freedom",
+      "createdBy": 6312328668,
+      "createdByUserName": "@Systamaticc",
+      "createdAt": 1759342707251,
+      "postedIn": [
+        {
+          "chatId": "-1002150550707",
+          "msgId": 429143,
+          "postedAt": 1759484512383,
+          "postedOptionsMap": {
+            "A": "♔xe5",
+            "B": "♘c2",
+            "C": "♔c3",
+            "D": "b4"
+          }
+        }
+      ]
+    },
+    "876b7db9-fbc3-4b54-84ed-f78ebbddd6ce": {
+      "id": "876b7db9-fbc3-4b54-84ed-f78ebbddd6ce",
+      "title": "Find the Best Move",
+      "puzzleNumber": 32,
+      "photoFileId": "AgACAgQAAxkBAAIGeWjc-GilDE1YoNWxdSOrlYtABEMwAALtzDEbyrDpUvH9EK8jCvTxAQADAgADeAADNgQ",
+      "options": [
+        {
+          "text": "♔h1",
+          "isAnswer": false
+        },
+        {
+          "text": "♖e7",
+          "isAnswer": true
+        },
+        {
+          "text": "♕g5",
+          "isAnswer": false
+        },
+        {
+          "text": "e6",
+          "isAnswer": false
+        }
+      ],
+      "hint": "Look for a forcing move",
+      "createdBy": 6312328668,
+      "createdByUserName": "@Systamaticc",
+      "createdAt": 1759342707253,
+      "postedIn": [
+        {
+          "chatId": "-1002150550707",
+          "msgId": 429146,
+          "postedAt": 1759484534965,
+          "postedOptionsMap": {
+            "A": "♔h1",
+            "B": "♖e7",
+            "C": "♕g5",
+            "D": "e6"
+          }
+        }
+      ]
+    },
+    "3d307f38-803d-4596-9737-3d535ded31e5": {
+      "id": "3d307f38-803d-4596-9737-3d535ded31e5",
+      "title": "Find the Best Move",
+      "puzzleNumber": 33,
+      "photoFileId": "AgACAgQAAxkBAAIGfGjc-ULQHlIPBpEsARdydBj1VPArAALwzDEbyrDpUlfn-KtEzxOkAQADAgADeAADNgQ",
+      "options": [
+        {
+          "text": "♖h6",
+          "isAnswer": false
+        },
+        {
+          "text": "♙a8",
+          "isAnswer": false
+        },
+        {
+          "text": "♖b1",
+          "isAnswer": true
+        },
+        {
+          "text": "♔a8",
+          "isAnswer": false
+        }
+      ],
+      "hint": "Look for the move that forces an exchange or checkmates the enemy King quickly.",
+      "createdBy": 6312328668,
+      "createdByUserName": "@Systamaticc",
+      "createdAt": 1759342707256,
+      "postedIn": [
+        {
+          "chatId": "-1002150550707",
+          "msgId": 429149,
+          "postedAt": 1759484553187,
+          "postedOptionsMap": {
+            "A": "♖h6",
+            "B": "♙a8",
+            "C": "♖b1",
+            "D": "♔a8"
+          }
+        }
+      ]
+    },
+    "4982882a-4c93-480d-9d76-b9dbbc7c33d1": {
+      "id": "4982882a-4c93-480d-9d76-b9dbbc7c33d1",
+      "title": "Find the Best Move",
+      "puzzleNumber": 34,
+      "photoFileId": "AgACAgQAAxkBAAIGiWjdAAE9li5FKpo3s14wZGFwKavjCQACAc0xG8qw6VKf53h2lc_iJAEAAwIAA3gAAzYE",
+      "options": [
+        {
+          "text": "♔b7",
+          "isAnswer": false
+        },
+        {
+          "text": "♔c6",
+          "isAnswer": true
+        },
+        {
+          "text": "♔c5",
+          "isAnswer": false
+        },
+        {
+          "text": "♔a5",
+          "isAnswer": false
+        }
+      ],
+      "hint": null,
+      "createdBy": 6312328668,
+      "createdByUserName": "@Systamaticc",
+      "createdAt": 1759342707260,
+      "postedIn": [
+        {
+          "chatId": "-1002150550707",
+          "msgId": 429154,
+          "postedAt": 1759484636192,
+          "postedOptionsMap": {
+            "A": "♔b7",
+            "B": "♔c6",
+            "C": "♔c5",
+            "D": "♔a5"
+          }
+        }
+      ]
+    },
+    "897be31f-3d62-41f2-917b-56979e087f9e": {
+      "id": "897be31f-3d62-41f2-917b-56979e087f9e",
+      "title": "Find the Best Move",
+      "puzzleNumber": 35,
+      "photoFileId": "AgACAgQAAxkBAAIHLGjfewEiGYocS1FRsUoEAYXtJN7aAAIEyzEbwR_5UuhVGHJ1ciCQAQADAgADeAADNgQ",
+      "options": [
+        {
+          "text": "h5",
+          "isAnswer": false
+        },
+        {
+          "text": "f3",
+          "isAnswer": true
+        },
+        {
+          "text": "h6",
+          "isAnswer": false
+        },
+        {
+          "text": "♔e7",
+          "isAnswer": false
+        }
+      ],
+      "hint": null,
+      "createdBy": 6312328668,
+      "createdByUserName": "@Systamaticc",
+      "createdAt": 1759476482412,
+      "postedIn": [
+        {
+          "chatId": "-1002150550707",
+          "msgId": 429160,
+          "postedAt": 1759484713712,
+          "postedOptionsMap": {
+            "A": "h5",
+            "B": "f3",
+            "C": "h6",
+            "D": "♔e7"
+          }
+        }
+      ]
+    },
+    "1d4e4f5c-4d5d-4a1c-8a00-b0cedc24406d": {
+      "id": "1d4e4f5c-4d5d-4a1c-8a00-b0cedc24406d",
+      "title": "Find the Best Move",
+      "puzzleNumber": 36,
+      "photoFileId": "AgACAgQAAyEGAASALsyzAAEGjE9o35kvpc7xsisXdhUQ3Id944KOcAAC4swxG8qw6VIxsT-VAAGkBqwBAAMCAAN4AAM2BA",
+      "options": [
+        {
+          "text": "♔c6",
+          "isAnswer": false
+        },
+        {
+          "text": "♙f6",
+          "isAnswer": false
+        },
+        {
+          "text": "♙f5",
+          "isAnswer": true
+        },
+        {
+          "text": "♔xf3",
+          "isAnswer": false
+        }
+      ],
+      "hint": "The key to victory is to create a passed pawn",
+      "createdBy": 6312328668,
+      "createdByUserName": "@Systamaticc",
+      "createdAt": 1759484379069,
+      "postedIn": [
+        {
+          "chatId": "-1002150550707",
+          "msgId": 429179,
+          "postedAt": 1759485013706,
+          "postedOptionsMap": {
+            "A": "♔c6",
+            "B": "♙f6",
+            "C": "♙f5",
+            "D": "♔xf3"
+          }
+        }
+      ]
+    },
+    "356014b2-d2fd-4be8-8e88-c77ba57633d1": {
+      "id": "356014b2-d2fd-4be8-8e88-c77ba57633d1",
+      "title": "Find the Best Move",
+      "puzzleNumber": 37,
+      "photoFileId": "AgACAgQAAxkBAAIHZWjfm8xTh3ySkR9k46h30ZxfnUOQAAI_yzEbwR_5UqL97dB-23KQAQADAgADeAADNgQ",
+      "options": [
+        {
+          "text": "♔c5",
+          "isAnswer": false
+        },
+        {
+          "text": "g3",
+          "isAnswer": true
+        },
+        {
+          "text": "♔e5",
+          "isAnswer": false
+        },
+        {
+          "text": "gxf3",
+          "isAnswer": false
+        }
+      ],
+      "hint": "Don't let the pawn promotion",
+      "createdBy": 6312328668,
+      "createdByUserName": "@Systamaticc",
+      "createdAt": 1759484876601,
+      "postedIn": [
+        {
+          "chatId": "-1002150550707",
+          "msgId": 429175,
+          "postedAt": 1759484975737,
+          "postedOptionsMap": {
+            "A": "♔c5",
+            "B": "g3",
+            "C": "♔e5",
+            "D": "gxf3"
+          }
+        }
+      ]
+    }
+  },
+  "users": {
+    "665071097": {
+      "userId": "665071097",
+      "name": "@mukulroy116",
+      "correct": 0,
+      "attempts": 1,
+      "score": -16,
+      "answers": {
+        "c1945fbb-4f77-4378-b546-711d7ea8bb5d": "Rxf6"
+      },
+      "lastPuzzleId": null,
+      "currentStreak": 0,
+      "maxStreak": 0
+    },
+    "1241733236": {
+      "userId": "1241733236",
+      "name": "@Mysterino",
+      "correct": 1,
+      "attempts": 1,
+      "score": 8,
+      "answers": {
+        "ad0c57ac-8171-4a20-a751-9cd62e340507": "♛c7"
+      },
+      "lastPuzzleId": null,
+      "currentStreak": 1,
+      "maxStreak": 1
+    },
+    "1292243987": {
+      "userId": "1292243987",
+      "name": "@narzullayev18",
+      "correct": 0,
+      "attempts": 1,
+      "score": -16,
+      "answers": {},
+      "lastPuzzleId": null,
+      "currentStreak": 0,
+      "maxStreak": 0
+    },
+    "1842496820": {
+      "userId": "1842496820",
+      "name": "@abbbbblm",
+      "correct": 10,
+      "attempts": 12,
+      "score": 52,
+      "answers": {
+        "c1945fbb-4f77-4378-b546-711d7ea8bb5d": "Rxf6",
+        "ae2948ed-2155-4036-a012-f99aa7743507": "Bxe5",
+        "d478340d-c1bc-4e36-881a-ea80eb74ab14": "♕e1",
+        "a54c0080-867f-46b0-a70c-64f6ac66b853": "♕h5+",
+        "d44c7875-e14d-4693-9444-c16676cfb953": "♖h5",
+        "601ffc46-cde3-4fd3-b915-23cce6d00cbb": "♕h1",
+        "76561168-62a2-43c3-91d8-10edfc78bfcd": "dxe4",
+        "3fbd6533-6ccf-4587-8ce3-604b43cb42c0": "♖xg7",
+        "4e7c01f3-88ee-45f2-b804-a5fbe98564f7": "e2",
+        "ef733547-d943-4a1e-b209-6e2b22265134": "♞g4",
+        "26c3cbff-a8d9-4353-9659-dece929a119d": "♕xa8",
+        "53a5ff9a-d48a-499f-92b6-5d32fb8ec7bd": "♖xf7"
+      },
+      "lastPuzzleId": "ef733547-d943-4a1e-b209-6e2b22265134",
+      "currentStreak": 6,
+      "maxStreak": 6
+    },
+    "8374607587": {
+      "userId": "8374607587",
+      "name": "𝗮𝗯𝘀𝗼𝗹𝘂𝘁𝗲𝗺𝗲𝘀𝘀𝗶𝗶",
+      "correct": 12,
+      "attempts": 12,
+      "score": 109,
+      "answers": {
+        "c1945fbb-4f77-4378-b546-711d7ea8bb5d": "Rxf6",
+        "ae2948ed-2155-4036-a012-f99aa7743507": "Bxe5",
+        "06171c19-7ba3-471f-b5b6-c92d8e25b0a9": "g7+",
+        "0f1799b0-52fd-4284-b4a5-695bca97b01a": "♖xe5",
+        "784c85b8-6588-4948-9cde-4604de53b0c2": "♛d3",
+        "ad0c57ac-8171-4a20-a751-9cd62e340507": "♛c7",
+        "a54c0080-867f-46b0-a70c-64f6ac66b853": "♕h5+",
+        "d44c7875-e14d-4693-9444-c16676cfb953": "♖h5",
+        "601ffc46-cde3-4fd3-b915-23cce6d00cbb": "♕h1",
+        "3fbd6533-6ccf-4587-8ce3-604b43cb42c0": "♖xg7",
+        "76561168-62a2-43c3-91d8-10edfc78bfcd": "dxe4",
+        "d478340d-c1bc-4e36-881a-ea80eb74ab14": "♕e1"
+      },
+      "lastPuzzleId": "601ffc46-cde3-4fd3-b915-23cce6d00cbb",
+      "currentStreak": 12,
+      "maxStreak": 12
+    },
+    "7519707886": {
+      "userId": "7519707886",
+      "name": "@Ludogamblingnowadays",
+      "correct": 0,
+      "attempts": 0,
+      "score": 0,
+      "answers": {},
+      "lastPuzzleId": null,
+      "currentStreak": 0,
+      "maxStreak": 0
+    },
+    "6312328668": {
+      "userId": "6312328668",
+      "name": "@Systamaticc",
+      "correct": 33,
+      "attempts": 38,
+      "score": 221,
+      "answers": {
+        "c1945fbb-4f77-4378-b546-711d7ea8bb5d": "Rxf6",
+        "ae2948ed-2155-4036-a012-f99aa7743507": "Bxe5",
+        "ad0c57ac-8171-4a20-a751-9cd62e340507": "♛c7",
+        "3fbd6533-6ccf-4587-8ce3-604b43cb42c0": "♖xg7",
+        "4e7c01f3-88ee-45f2-b804-a5fbe98564f7": "e2",
+        "ef733547-d943-4a1e-b209-6e2b22265134": "♞g4",
+        "26c3cbff-a8d9-4353-9659-dece929a119d": "♕xa8",
+        "53a5ff9a-d48a-499f-92b6-5d32fb8ec7bd": "♖xf7",
+        "784c85b8-6588-4948-9cde-4604de53b0c2": "♛d3",
+        "0f1799b0-52fd-4284-b4a5-695bca97b01a": "♖xe5",
+        "d478340d-c1bc-4e36-881a-ea80eb74ab14": "♕e1",
+        "06171c19-7ba3-471f-b5b6-c92d8e25b0a9": "g7+",
+        "a54c0080-867f-46b0-a70c-64f6ac66b853": "♕h5+",
+        "d44c7875-e14d-4693-9444-c16676cfb953": "♖h5",
+        "601ffc46-cde3-4fd3-b915-23cce6d00cbb": "♕h1",
+        "76561168-62a2-43c3-91d8-10edfc78bfcd": "♞xe4",
+        "0567f437-e113-4a0a-a90d-39328435282e": "♜h3",
+        "30cb490d-6428-4dd2-b490-f9710495d5b7": "g5+",
+        "4a5c89d9-69ee-465d-af47-36f7a9c7f6ec": "♛e7",
+        "7b6ce662-8fb6-4acf-a14c-5665a3f09bb4": "♗f7",
+        "5e5c14c2-5e4f-41f4-8a0b-5e86714998fb": "Rc4",
+        "cc419101-9553-431a-a52d-06c0c2189b8b": "♝c7",
+        "f466b723-605c-4d2d-a13b-9cad9deeafbe": "♝g5",
+        "5c839fc8-0500-464a-a97e-64364c57ac5e": "♙f5",
+        "0173cb48-71f7-426e-9886-8b30882b9109": "♙dxc3",
+        "84f8becc-453d-4360-986c-9740416a03bc": "♜e5",
+        "cee6ddbb-b2bc-49c2-a360-56167203a20b": "Rb1",
+        "40e16514-63f0-4169-b452-5a6e3cf84928": "♘xg5",
+        "773de48b-c97e-494e-94d8-8c11293f1ea1": "♔c4",
+        "2bd7a230-b3d7-4aea-a6cb-59fac0773619": "♔d6",
+        "58c80d69-b4eb-4017-a769-783b7b803e99": "♔xe5",
+        "876b7db9-fbc3-4b54-84ed-f78ebbddd6ce": "♖e7",
+        "3d307f38-803d-4596-9737-3d535ded31e5": "♖b1",
+        "4982882a-4c93-480d-9d76-b9dbbc7c33d1": "♔c6",
+        "897be31f-3d62-41f2-917b-56979e087f9e": "f3",
+        "356014b2-d2fd-4be8-8e88-c77ba57633d1": "g3",
+        "1d4e4f5c-4d5d-4a1c-8a00-b0cedc24406d": "♙f6"
+      },
+      "lastPuzzleId": "c1945fbb-4f77-4378-b546-711d7ea8bb5d",
+      "currentStreak": 0,
+      "maxStreak": 17
+    },
+    "6797251545": {
+      "userId": "6797251545",
+      "name": "@xorax_nvk",
+      "correct": 0,
+      "attempts": 0,
+      "score": 0,
+      "answers": {},
+      "lastPuzzleId": null,
+      "currentStreak": 0,
+      "maxStreak": 0
+    },
+    "6579116756": {
+      "userId": "6579116756",
+      "name": "@Callmesilee",
+      "correct": 0,
+      "attempts": 1,
+      "score": -16,
+      "answers": {
+        "c1945fbb-4f77-4378-b546-711d7ea8bb5d": "Rxe3"
+      },
+      "lastPuzzleId": null,
+      "currentStreak": 0,
+      "maxStreak": 0
+    },
+    "6828968319": {
+      "userId": "6828968319",
+      "name": "@sraitoki",
+      "correct": 0,
+      "attempts": 0,
+      "score": 0,
+      "answers": {},
+      "lastPuzzleId": "784c85b8-6588-4948-9cde-4604de53b0c2",
+      "currentStreak": 0,
+      "maxStreak": 0
+    },
+    "6678883466": {
+      "userId": "6678883466",
+      "name": "@Paqueei",
+      "correct": 0,
+      "attempts": 0,
+      "score": 0,
+      "answers": {},
+      "lastPuzzleId": "a54c0080-867f-46b0-a70c-64f6ac66b853",
+      "currentStreak": 0,
+      "maxStreak": 0
+    },
+    "6023433663": {
+      "userId": "6023433663",
+      "name": "@tiann14",
+      "correct": 3,
+      "attempts": 5,
+      "score": -8,
+      "answers": {
+        "d478340d-c1bc-4e36-881a-ea80eb74ab14": "♕e1",
+        "a54c0080-867f-46b0-a70c-64f6ac66b853": "♕h5+",
+        "76561168-62a2-43c3-91d8-10edfc78bfcd": "dxe4",
+        "3fbd6533-6ccf-4587-8ce3-604b43cb42c0": "♗xh7+",
+        "d44c7875-e14d-4693-9444-c16676cfb953": "♔f4"
+      },
+      "lastPuzzleId": null,
+      "currentStreak": 0,
+      "maxStreak": 3
+    },
+    "6316391531": {
+      "userId": "6316391531",
+      "name": "@Zcxgj",
+      "correct": 0,
+      "attempts": 0,
+      "score": 0,
+      "answers": {},
+      "lastPuzzleId": "76561168-62a2-43c3-91d8-10edfc78bfcd",
+      "currentStreak": 0,
+      "maxStreak": 0
+    },
+    "7280835311": {
+      "userId": "7280835311",
+      "name": "@numberstein",
+      "correct": 1,
+      "attempts": 1,
+      "score": 8,
+      "answers": {
+        "ae2948ed-2155-4036-a012-f99aa7743507": "Bxe5"
+      },
+      "lastPuzzleId": null,
+      "currentStreak": 1,
+      "maxStreak": 1
+    },
+    "6390709614": {
+      "userId": "6390709614",
+      "name": "⁣⁣⁣⁣⁣⁣⁣",
+      "correct": 0,
+      "attempts": 1,
+      "score": -16,
+      "answers": {
+        "26c3cbff-a8d9-4353-9659-dece929a119d": "♕xa8"
+      },
+      "lastPuzzleId": null,
+      "currentStreak": 0,
+      "maxStreak": 0
+    },
+    "8201414371": {
+      "userId": "8201414371",
+      "name": "Tactical King",
+      "correct": 2,
+      "attempts": 4,
+      "score": -16,
+      "answers": {
+        "784c85b8-6588-4948-9cde-4604de53b0c2": "♛xc3",
+        "0f1799b0-52fd-4284-b4a5-695bca97b01a": "♖xe5",
+        "ad0c57ac-8171-4a20-a751-9cd62e340507": "♛c7",
+        "d478340d-c1bc-4e36-881a-ea80eb74ab14": "♖e8+"
+      },
+      "lastPuzzleId": null,
+      "currentStreak": 0,
+      "maxStreak": 2
+    },
+    "7662032058": {
+      "userId": "7662032058",
+      "name": "𝕶𝖗𝖎𝖘𝖙𝖔𝖋𝖊𝖗 ㅤㅤㅤㅤㅤㅤ",
+      "correct": 2,
+      "attempts": 2,
+      "score": 16,
+      "answers": {
+        "ad0c57ac-8171-4a20-a751-9cd62e340507": "♛c7",
+        "d478340d-c1bc-4e36-881a-ea80eb74ab14": "♕e1"
+      },
+      "lastPuzzleId": null,
+      "currentStreak": 2,
+      "maxStreak": 2
+    },
+    "7662486115": {
+      "userId": "7662486115",
+      "name": "@ZyrusxStudy",
+      "correct": 0,
+      "attempts": 0,
+      "score": 0,
+      "answers": {},
+      "lastPuzzleId": null,
+      "currentStreak": 0,
+      "maxStreak": 0
+    },
+    "7810091820": {
+      "userId": "7810091820",
+      "name": "J",
+      "correct": 0,
+      "attempts": 0,
+      "score": 0,
+      "answers": {},
+      "lastPuzzleId": null,
+      "currentStreak": 0,
+      "maxStreak": 0
+    },
+    "6365557103": {
+      "userId": "6365557103",
+      "name": "@yehezkielich",
+      "correct": 0,
+      "attempts": 0,
+      "score": 0,
+      "answers": {},
+      "lastPuzzleId": null,
+      "currentStreak": 0,
+      "maxStreak": 0
+    },
+    "7616006564": {
+      "userId": "7616006564",
+      "name": "@MissionManOfficial",
+      "correct": 0,
+      "attempts": 1,
+      "score": -16,
+      "answers": {
+        "c1945fbb-4f77-4378-b546-711d7ea8bb5d": "Rxf6"
+      },
+      "lastPuzzleId": null,
+      "currentStreak": 0,
+      "maxStreak": 0
+    },
+    "7290142438": {
+      "userId": "7290142438",
+      "name": "@Mikasa333333",
+      "correct": 0,
+      "attempts": 1,
+      "score": -16,
+      "answers": {},
+      "lastPuzzleId": null,
+      "currentStreak": 0,
+      "maxStreak": 0
+    },
+    "7328372175": {
+      "userId": "7328372175",
+      "name": "@Ragequit3",
+      "correct": 1,
+      "attempts": 1,
+      "score": 8,
+      "answers": {
+        "c1945fbb-4f77-4378-b546-711d7ea8bb5d": "Rxf6"
+      },
+      "lastPuzzleId": null,
+      "currentStreak": 1,
+      "maxStreak": 1
+    }
+  },
+  "groups": {
+    "-1002150550707": {
+      "chatId": "-1002150550707",
+      "title": "Chess Club World",
+      "username": "ccwchess",
+      "registeredAt": 1759342732692,
+      "score": 104,
+      "attempts": 42,
+      "nextPuzzleIndex": 0,
+      "battleNextPuzzleIndex": 0
+    },
+    "-1001603984688": {
+      "chatId": "-1001603984688",
+      "title": "Catur? Kuy! - inGoodnesia🇮🇩",
+      "username": "caturkuy",
+      "registeredAt": 1759342872909,
+      "score": 81,
+      "attempts": 27,
+      "nextPuzzleIndex": 0,
+      "battleNextPuzzleIndex": 0
+    },
+    "8374607587": {
+      "chatId": "8374607587",
+      "title": "group",
+      "username": null,
+      "registeredAt": 1759384698949,
+      "score": 0,
+      "attempts": 0,
+      "nextPuzzleIndex": 0,
+      "battleNextPuzzleIndex": 0
+    },
+    "-1002769034318": {
+      "chatId": "-1002769034318",
+      "title": "True Mafia India 🇮🇳",
+      "username": null,
+      "registeredAt": 1759384782580,
+      "score": 0,
+      "attempts": 0,
+      "nextPuzzleIndex": 0,
+      "battleNextPuzzleIndex": 0
+    },
+    "-1001981339836": {
+      "chatId": "-1001981339836",
+      "title": "Check de INDIA 🇮🇳",
+      "username": null,
+      "registeredAt": 1759485084974,
+      "score": 8,
+      "attempts": 1,
+      "nextPuzzleIndex": 1,
+      "battleNextPuzzleIndex": 0
+    }
+  },
+  "settings": {
+    "globalBroadcast": []
+  }
+}
